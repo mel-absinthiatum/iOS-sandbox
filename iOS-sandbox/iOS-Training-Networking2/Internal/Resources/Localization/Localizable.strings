@@ -1,0 +1,11 @@
+"Authorization.Title" = "Authorization";
+"Authorization.TypeYourNameLabel" = "Type your name";
+"Authorization.ConfirmButton" = "confirm";
+
+"ServicesList.Title" = "Services";
+"ServicesList.User" = "User";
+"ServicesList.DeleteButton" = "Delete";
+
+"PasswordGeneration.Title" = "Create password";
+"PasswordGeneration.GenerateButton" = "Generate password";
+"PasswordGeneration.DoneButton" = "Done";

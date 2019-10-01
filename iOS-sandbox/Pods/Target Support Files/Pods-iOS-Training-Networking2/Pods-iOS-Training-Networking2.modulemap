@@ -1,0 +1,6 @@
+framework module Pods_iOS_Training_Networking2 {
+  umbrella header "Pods-iOS-Training-Networking2-umbrella.h"
+
+  export *
+  module * { export * }
+}

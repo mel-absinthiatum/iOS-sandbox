@@ -1,0 +1,3 @@
+protocol APIResponseModel: Codable {
+
+}

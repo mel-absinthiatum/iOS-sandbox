@@ -1,0 +1,7 @@
+import UIKit
+
+typealias SingleNavigationController = SingleNavigationControllerType
+typealias StackNavigationController = StackNavigationControllerType
+typealias ModalNavigationController = ModalNavigationControllerType
+
+typealias NavigationController = AnyNavigationController
